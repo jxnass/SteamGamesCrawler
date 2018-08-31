@@ -9,6 +9,7 @@ Crawl Steam Keys with Python Crawler
 ## Prerequisites
 ```shell
 pip install pycryptodome
+pip install requests
 ```
 * edit username & password in crawler.py
 
